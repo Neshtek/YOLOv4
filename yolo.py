@@ -29,7 +29,7 @@ if len(content)>0:
         if (int(i.split()[5]) > 0 and int(i.split()[3]) > 0):
             l=""
             for c in classes:    
-                l=l+str(classes.index(i.split()[0][:len(i.split()[0])-1]))
+                l=l+str(classes.index(i.split()[0][:len(i.split()[0])-1]))+" "
 
             Ax=int(i.split()[3])+(int(i.split()[7])/2)
             x= int(Ax)/width

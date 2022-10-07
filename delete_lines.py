@@ -1,5 +1,5 @@
-for i in range(228):
-    with open(r"C:\\Users\\neela\\Documents\\pseudoLabelGeneratorForYOLO\\KV-text\\frame%d.txt" % i, 'r+') as fp:
+for i in range(797):
+    with open(r"C:\\Users\\neela\\Documents\\yolov4\\text\\frame%d.txt" % i, 'r+') as fp:
         lines = fp.readlines()
         fp.seek(0)
         fp.truncate()
