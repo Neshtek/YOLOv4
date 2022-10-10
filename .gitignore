@@ -2,6 +2,3 @@ training/
 __pycache__/
 .vs/
 .vscode/
-img/
-labels/
-text/

@@ -1,0 +1,1 @@
+panels: 97%	(left_x:  227   top_y:  478   width:  838   height:  421)
